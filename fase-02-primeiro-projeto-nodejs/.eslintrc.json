@@ -30,7 +30,7 @@
       "ignorePackages",
       {
         "ts": "never"
-      },
+      }
     ]
   },
   "settings": {
